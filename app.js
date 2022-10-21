@@ -53,3 +53,5 @@ const startedHH = 'James';
 console.log(startedHH);
 console.log(startedHH);
 console.log(startedHH);
+console.log('Mike');
+console.log('startedHH');
