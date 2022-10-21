@@ -49,4 +49,5 @@ containers.forEach(container => {
 	});
 });
 
-console.log('James');
+const __name = 'James';
+console.log(__name);
