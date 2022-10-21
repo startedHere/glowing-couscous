@@ -1,3 +1,5 @@
+'use strict';
+
 const containers = document.querySelectorAll('.input-container');
 const form = document.querySelector('form');
 
@@ -54,4 +56,11 @@ console.log(startedHH);
 console.log(startedHH);
 console.log(startedHH);
 console.log('Mike');
+console.log('startedHH');
+
+console.log('startedHH');
+console.log('startedHH');
+console.log('startedHH');
+console.log('startedHH');
+console.log('startedHH');
 console.log('startedHH');
